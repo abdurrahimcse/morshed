@@ -1,2 +1,2 @@
 # morshed
-https://abdurrahimcse.github.io/morshed/
+https://freelancerabdurrahim.github.io/morshed/
